@@ -5,6 +5,7 @@ int main( ) {
 
     printf("Enter a value : ");
     scanf("%d", &a);
+    
     printf("Enter b value : ");
     scanf("%d", &b);
 
